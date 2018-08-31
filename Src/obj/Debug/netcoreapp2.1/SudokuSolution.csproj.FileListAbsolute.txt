@@ -1,0 +1,11 @@
+D:\TFS\SodukuSolver\SudokuSolution\obj\Debug\netcoreapp2.1\SudokuSolution.csprojAssemblyReference.cache
+D:\TFS\SodukuSolver\SudokuSolution\obj\Debug\netcoreapp2.1\SudokuSolution.csproj.CoreCompileInputs.cache
+D:\TFS\SodukuSolver\SudokuSolution\obj\Debug\netcoreapp2.1\SudokuSolution.AssemblyInfoInputs.cache
+D:\TFS\SodukuSolver\SudokuSolution\obj\Debug\netcoreapp2.1\SudokuSolution.AssemblyInfo.cs
+D:\TFS\SodukuSolver\SudokuSolution\bin\Debug\netcoreapp2.1\SudokuSolution.deps.json
+D:\TFS\SodukuSolver\SudokuSolution\bin\Debug\netcoreapp2.1\SudokuSolution.runtimeconfig.json
+D:\TFS\SodukuSolver\SudokuSolution\bin\Debug\netcoreapp2.1\SudokuSolution.runtimeconfig.dev.json
+D:\TFS\SodukuSolver\SudokuSolution\bin\Debug\netcoreapp2.1\SudokuSolution.dll
+D:\TFS\SodukuSolver\SudokuSolution\bin\Debug\netcoreapp2.1\SudokuSolution.pdb
+D:\TFS\SodukuSolver\SudokuSolution\obj\Debug\netcoreapp2.1\SudokuSolution.dll
+D:\TFS\SodukuSolver\SudokuSolution\obj\Debug\netcoreapp2.1\SudokuSolution.pdb

@@ -1,0 +1,17 @@
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\SudukoTest.deps.json
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\SudukoTest.runtimeconfig.json
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\SudukoTest.runtimeconfig.dev.json
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\SudukoTest.dll
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\SudukoTest.pdb
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\SudokuSolution.dll
+D:\TFS\SodukuSolver\SudukoTest\bin\Debug\netcoreapp2.1\SudokuSolution.pdb
+D:\TFS\SodukuSolver\SudukoTest\obj\Debug\netcoreapp2.1\SudukoTest.csprojAssemblyReference.cache
+D:\TFS\SodukuSolver\SudukoTest\obj\Debug\netcoreapp2.1\SudukoTest.csproj.CoreCompileInputs.cache
+D:\TFS\SodukuSolver\SudukoTest\obj\Debug\netcoreapp2.1\SudukoTest.AssemblyInfoInputs.cache
+D:\TFS\SodukuSolver\SudukoTest\obj\Debug\netcoreapp2.1\SudukoTest.AssemblyInfo.cs
+D:\TFS\SodukuSolver\SudukoTest\obj\Debug\netcoreapp2.1\SudukoTest.csproj.CopyComplete
+D:\TFS\SodukuSolver\SudukoTest\obj\Debug\netcoreapp2.1\SudukoTest.dll
+D:\TFS\SodukuSolver\SudukoTest\obj\Debug\netcoreapp2.1\SudukoTest.pdb
